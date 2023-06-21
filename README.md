@@ -22,10 +22,10 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/WrozyDeveloper) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/513752527989374976)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
 
 ## 🏆 Trophies
-[![](https://github-profile-trophy.vercel.app/?username=WrozyDeveloper&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
+[![](https://github-profile-trophy.vercel.app/?username=WraithDev&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
 
 <!-- <a href="http://www.github.com/ErenBaygun"><img src="https://activity-graph.herokuapp.com/graph?username=WrozyDeveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
@@ -45,7 +45,7 @@
 <a href="mailto:deapdev99@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.github.com/WrozyDeveloper"> 
+<a href="https://www.github.com/WraithDev"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <!-- <a href="https://twitter.com/"> 
