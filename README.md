@@ -5,7 +5,7 @@
 **I am a self-taught discord bot developer from Turkey.**
 <br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
 <br />**I have 3+ Years of experience in discord bot development.**
-<br/><br/>👀 **Check out my website** --> <a href="https://wrozydeveloper.github.io/"><b>Sanct.me</b></a>
+<br/><br/>👀 **Check out my website** --> <a href="https://wraithsdev.github.io/"><b>WraithsDev.github.io</b></a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=ErenBaygun&show_icons=true" alt="git stats"> -->
 
 
@@ -15,17 +15,17 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 🌱 I’m currently learning HTML & CSS.<br/>
+• 🌱 I’m currently learning JS, HTML, C#,CSS<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
 • 📫 You can reach me via <a href="https://discord.gg/J2QZnWydtn"><b>Discord</b></a> & <a href="https://www.instagram.com/"><b>Instagram</b></a><br/>
 </span>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/WrozyDeveloper) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/843136836947410945?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
 
 ## 🏆 Trophies
-[![](https://github-profile-trophy.vercel.app/?username=WraithDev&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
+[![](https://github-profile-trophy.vercel.app/?username=WraithsDev&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
 
 <!-- <a href="http://www.github.com/ErenBaygun"><img src="https://activity-graph.herokuapp.com/graph?username=WrozyDeveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
@@ -33,10 +33,10 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com"> 
+<!--<a href="https://www.instagram.com"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://discord.gg/J2QZnWydtn"> 
+</a> -->
+<a href="https://discord.com/users/843136836947410945"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <!-- <a href="https://www.youtube.com/"> 
@@ -45,7 +45,7 @@
 <a href="mailto:deapdev99@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.github.com/WraithDev"> 
+<a href="https://www.github.com/WraithsDev"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <!-- <a href="https://twitter.com/"> 
