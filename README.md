@@ -22,10 +22,6 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/WrozyDeveloper) -->
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/843136836947410945?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
-
-## 🏆 Trophies
-[![](https://github-profile-trophy.vercel.app/?username=WraithsDev&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
-
 <!-- <a href="http://www.github.com/ErenBaygun"><img src="https://activity-graph.herokuapp.com/graph?username=WrozyDeveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br />
