@@ -6,7 +6,6 @@
 <br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
 <br />**I have 4+ Years of experience in discord bot development.**
 <br/><br/>👀 **Check out my website** --> <a href="https://wraiths.vercel.app/"><b>WraithsDev.github.io</b></a>
-<img src="[https://github-readme-stats.vercel.app/api/?username=WraithsDev&show_icons=true]" alt="git stats">
 <!-- ![Profile views](https://gpvc.arturio.dev/WrozyDeveloper) -->
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/843136836947410945?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
