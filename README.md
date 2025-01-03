@@ -1,27 +1,7 @@
-## 🖐 Hi, I am Wraiths!
-
-<br />
-
-**I am a self-taught discord bot developer from Turkey.**
-<br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
-<br />**I have 4+ Years of experience in discord bot development.**
-<br/><br/>👀 **Check out my website** --> <a href="https://wraiths.vercel.app/"><b>WraithsDev.github.io</b></a>
-<!-- ![Profile views](https://gpvc.arturio.dev/WrozyDeveloper) -->
-
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/843136836947410945?theme=dark&bg=272727)](https://discord.com/users/843136836947410945)
 <!-- <a href="http://www.github.com/ErenBaygun"><img src="https://activity-graph.herokuapp.com/graph?username=WrozyDeveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br />
-
-## 🌏 **CONNECT WITH ME**
-<a href="https://discord.com/users/843136836947410945"> 
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
-<a href="mailto:iletisim@wraiths.dev"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<br />
-
 
 <br />
 
