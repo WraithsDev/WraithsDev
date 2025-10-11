@@ -6,6 +6,7 @@
 <p align="center">
  <a href="https://discord.com/users/843136836947410945" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/WraithsDev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ 
 ## About Me
 
 <samp>
