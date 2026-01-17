@@ -20,8 +20,3 @@
 ## Technologies I use
 
 <img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=7">
-
-## My Stats
-<div align="center" width="100%">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=WraithsDev&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WraithsDev&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
