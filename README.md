@@ -1,5 +1,5 @@
 
-# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+WraithsDev"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=WraithsDev&color=191717">
+# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Wraiths"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=WraithsDev&color=191717">
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Enes. I'm 19 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
+• Let me introduce myself, I'm Enes. I'm 21 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
 
 • You Should Come By [Here](https://discord.gg/vsc) <br />
 • My [Website](https://www.wraiths.dev)
